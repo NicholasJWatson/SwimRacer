@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SwimRacer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show_times">Show Times</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    //MainActivity label strings
+    <string name="title">Swim Time Record Keeper</string>
+    <string name="showTimeStr">Show Times</string>
+    <string name="newTimeStr">Add a New Time</string>
+    <string name="butterFlyButtonStr">Butterfly</string>
+    <string name="backStrokeButtonStr">Backstroke</string>
+    <string name="breastStrokeButtonStr">Breaststroke</string>
+    <string name="freeStyleButtonStr">Freestyle</string>
+    <string name="newTimeButtonStr">New Swim Time</string>
+
+    <string name="newTime">Add Swim Time</string>
+    <string name="title_activity_create_or_edit_swim_time">Editing</string>
+
+    <string name="edit">Edit Swim Time</string>
+    <string name="delete">Delete Swim Time</string>
+    <string name="save">Save Swim Time</string>
+
+    <string name="stroke">Stroke</string>
+    <string name="time">Time</string>
+    <string name="yards">Yards</string>
+
+    <string name="deleteSwimTime">Delete time</string>
+    <string name="yes">Confirm</string>
+    <string name="no">Cancel</string>
+    <string name="title_activity_activity_edit">CreateOrEditActivity</string>
+
+
+</resources>
